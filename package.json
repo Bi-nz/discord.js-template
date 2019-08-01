@@ -1,0 +1,28 @@
+{
+  "name": "discord.js-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "discord.js": "github:discordjs/discord.js#master"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bi-nz/discord.js-template.git"
+  },
+  "keywords": [
+    "discord.js template",
+    "discord.js open source"
+  ],
+  "author": "Bi-nz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bi-nz/discord.js-template/issues"
+  },
+  "homepage": "https://github.com/Bi-nz/discord.js-template#readme"
+}
