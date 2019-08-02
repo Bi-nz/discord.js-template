@@ -1,6 +1,11 @@
 # Discord.js Template
 
 > Feeling lazy to start your own bot from scratch? I have provided this template out of boredom, because I had nothing to do. This template uses the handlers I've made for my own use.
+
+---
+
+> In order for this to work, you must have Node.js installed. If you have not installed Node.js yet, [click here to download Node.js](https://nodejs.org/en/download/).
+
 ---
 
 # Instructions
