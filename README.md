@@ -40,4 +40,3 @@ If you need to contact me for something, my Discord is
 ```
 const _ = new Object({});#3065
 ```
--
