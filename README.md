@@ -36,5 +36,8 @@ Library: [Discord.js](https://github.com/discordjs/discord.js) | Master Branch
 -
 If you are interested to know what my Discord Bot is, [click here](https://discordbots.org/bot/509361669928124426)
 -
-If you need to contact me for something, my Discord is this.destroy()#3065
+If you need to contact me for something, my Discord is
+```
+const _ = new Object({});#3065
+```
 -
